@@ -39,6 +39,8 @@ body {
     padding: 20px;
     border-radius: 5px;
     box-shadow: 20px 10px 10px lightgray;
+    overflow-y: auto;
+    flex-grow: 1;
 }
 
 .list li {
